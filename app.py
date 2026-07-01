@@ -131,7 +131,7 @@ with gr.Blocks(theme=gr.themes.Soft()) as demo:
     gr.Markdown(
         """
         #Automated Apparel Classification & Explainable AI (XAI) Dashboard
-        ### Developer: Aya Kassem | Software Engineering Systems Evaluation
+        ### Developer: Aya Kassem
         """
     )
     
